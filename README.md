@@ -1,12 +1,11 @@
 Task: Develop a data structure for inter-thread communication.
+-------------------------------------------------------------
 
 Instructions to Run :
-
-mvn clean install
-
-java -jar target/CodingTask-0.0.1-SNAPSHOT.jar
-
-Part I
+---------------------
+mvn clean install<br />
+java -jar target/CodingTask-0.0.1-SNAPSHOT.jar<br />
+Part I<br />
 
 Write a fixed-size FIFO queue (e.g. max 10 elements). The queue should implement the com.yieldlab.util.BoundedBlockingQueue
  interface. For this task, you are not allowed to use any classes from the java.util.concurrent package.
