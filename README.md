@@ -1,6 +1,7 @@
 Task: Develop a data structure for inter-thread communication.
 
 Instructions to Run :
+
 mvn clean install
 java -jar target/CodingTask-0.0.1-SNAPSHOT.jar
 
